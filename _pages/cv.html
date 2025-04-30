@@ -3,33 +3,6 @@ layout: none
 permalink: /cv/
 ---
 
-<!-- Redirects to the PDF immediately -->
-<meta http-equiv="refresh" content="0; url={{ "/files/cv.pdf" | relative_url }}">
+<meta http-equiv="refresh" content="0; url={{ "/cv.pdf" | relative_url }}">
 
-<!-- Fallback content -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Redirecting to CV</title>
-  <link rel="stylesheet" href="{{ "/assets/css/cv-style.css" | relative_url }}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-<body>
-
-  <main class="archive">
-    <h1>CV Download</h1>
-    <p>If you are not redirected automatically, you can:</p>
-
-    <div class="cv-download-links">
-      <a href="{{ "/files/cv.pdf" | relative_url }}" class="btn btn--primary" download>
-        <i class="fas fa-download"></i> Download CV as PDF
-      </a>
-      <a href="{{ "/files/cv.pdf" | relative_url }}" class="btn btn--inverse" target="_blank">
-        <i class="fas fa-eye"></i> View CV in Browser
-      </a>
-    </div>
-  </main>
-
-</body>
-</html>
+<p>If you're not redirected, <a href="{{ "/cv.pdf" | relative_url }}" download>download the CV here</a>, or <a href="{{ "/cv.pdf" | relative_url }}" target="_blank">view it in your browser</a>.</p>
