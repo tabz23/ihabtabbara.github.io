@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ihab Tabbara"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url: "https://tabz23.github.io"
+url                      : "https://tabz23.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository: "tabz23/ihabtabbara.github.io"
+repository:      "tabz23/ihabtabbara.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
