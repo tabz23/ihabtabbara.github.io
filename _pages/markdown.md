@@ -1,12 +1,16 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+<!-- Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on *trustworthy autonomy*, specifically on ensuring safety for autonomous systems. 
 
+Outside of research, I enjoy nature and astrophotography (you can follow me on instagram @that_dobsonian_guy), and I'm passionate about sports — particularly karate and track and field. I also spend a large chunk of my free time on video games. -->
+
+<!-- 
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -290,10 +294,10 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
-
+This allows you to denote <var>variables</var>. -->
+<!-- 
 ***
 **Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>. -->
 

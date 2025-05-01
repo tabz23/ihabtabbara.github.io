@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ihab Tabbara"
   pronouns         : # example: "she/her"  
-  bio              : "I am currently a PhD student in computer science engineering at Washington University."
+  # bio              : "I am currently a PhD student in computer science engineering at Washington University."
   location         : "USA, Missouri"
   employer         : "Washington University"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : that_dobsonian_guy
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
