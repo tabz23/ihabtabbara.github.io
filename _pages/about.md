@@ -33,18 +33,18 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. 
 
 <p align="center">
-  <img src="/assets/files/1.jpeg" alt="Photo 1" width="45%" style="margin-right: 2%;">
-  <img src="/assets/files/2.jpeg" alt="Photo 2" width="45%" height="50%">
+  <img src="{{ '/assets/files/1.jpg' | relative_url }}" alt="Photo 1" width="45%" style="margin-right: 2%;">
+  <img src="{{ '/assets/files/2.jpg' | relative_url }}" alt="Photo 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="/assets/files/3.jpeg" alt="Photo 3" width="45%" style="margin-right: 2%;">
-  <img src="/assets/files/4.jpeg" alt="Photo 4" width="45%">
+  <img src="{{ '/assets/files/3.jpg' | relative_url }}" alt="Photo 3" width="45%" style="margin-right: 2%;">
+  <img src="{{ '/assets/files/4.jpg' | relative_url }}" alt="Photo 4" width="45%">
 </p>
 
 <p align="center">
-  <img src="/assets/files/5.jpeg" alt="Photo 5" width="45%" style="margin-right: 2%;">
-  <img src="/assets/files/6.jpeg" alt="Photo 6" width="45%">
+  <img src="{{ '/assets/files/5.jpg' | relative_url }}" alt="Photo 5" width="45%" style="margin-right: 2%;">
+  <img src="{{ '/assets/files/6.jpg' | relative_url }}" alt="Photo 6" width="45%">
 </p>
 
 <!-- 
