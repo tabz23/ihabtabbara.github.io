@@ -6,9 +6,46 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on trustworthy autonomy, specifically on formal methods for ML-enabled systems such learned neural safety filters. Previously, I had completed my undergrad in Computer and Communication Engineering at the American University of Beirut.
+Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on trustworthy autonomy, specifically on formal methods for ML-enabled systems such learned neural safety filters. Previously, I had completed my undergrad in Computer and Communication Engineering at the American University of Beirut. 
 
-Outside of research, I enjoy nature and astrophotography, and I'm passionate about sports, particularly karate and track and field.
+
+## Publications
+- *Learning Neural Control Barrier Functions from Offline Data with Conservatism*
+- *Learning Ensembles of Vision-based Safety Control Filters*, arXiv:2412.02029  
+- *Reducing Barriers in Analyzing Eye Tracking Data*, IEEE SIEDS, 2024
+
+
+## Teaching
+
+-  **Electronics and microprocessor systems** (ECE 410L, AUB)
+-  **Control Systems Lab** (ECE 460L, AUB) 
+
+
+
+## Industry Experience
+
+**Software Engineer, Murex (Jun 2023 – May 2024)**
+- Developed C++ infrastructure for financial pricing and risk analytics  
+- Served as Scrum Master—led sprint planning, retrospectives, and team coordination
+
+---
+
+Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. 
+
+<p align="center">
+  <img src="/assets/files/1.jpeg" alt="Photo 1" width="45%" style="margin-right: 2%;">
+  <img src="/assets/files/2.jpeg" alt="Photo 2" width="45%" height="50%">
+</p>
+
+<p align="center">
+  <img src="/assets/files/3.jpeg" alt="Photo 3" width="45%" style="margin-right: 2%;">
+  <img src="/assets/files/4.jpeg" alt="Photo 4" width="45%">
+</p>
+
+<p align="center">
+  <img src="/assets/files/5.jpeg" alt="Photo 5" width="45%" style="margin-right: 2%;">
+  <img src="/assets/files/6.jpeg" alt="Photo 6" width="45%">
+</p>
 
 <!-- 
 
