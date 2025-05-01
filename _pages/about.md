@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on *trustworthy autonomy*, specifically on ensuring safety for autonomous systems. 
+Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on *trustworthy autonomy*, specifically on formal methods for ML-enabled systems.
 
 Outside of research, I enjoy nature and astrophotography, and I'm passionate about sports — particularly karate and track and field. I also spend a large chunk of my free time on video games.
 
