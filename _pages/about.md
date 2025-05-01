@@ -30,7 +30,7 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 
 ---
 
-Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. 
+Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. I also enjoy video/board games.
 
 <p align="center">
   <img src="{{ '/assets/files/4.jpeg' | relative_url }}" alt="Photo 1" width="45%" style="margin-right: 2%;">
