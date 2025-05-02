@@ -6,19 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on trustworthy autonomy, specifically on formal methods for ML-enabled systems such learned neural safety filters. Previously, I had completed my undergrad in Computer and Communication Engineering at the American University of Beirut. 
-
-
-## Publications
-- *Learning Neural Control Barrier Functions from Offline Data with Conservatism*
-- *Learning Ensembles of Vision-based Safety Control Filters*, arXiv:2412.02029  
-- *Reducing Barriers in Analyzing Eye Tracking Data*, IEEE SIEDS, 2024
-
-
-## Teaching
-
--  **Electronics and microprocessor systems** (ECE 410L, AUB)
--  **Control Systems Lab** (ECE 460L, AUB) 
+Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineering at Washington University in St. Louis. My research focuses on trustworthy autonomy, specifically on formal methods for ML-enabled systems and robots. Previously, I had completed my undergrad in Computer and Communication Engineering at the American University of Beirut. 
 
 
 
@@ -28,17 +16,26 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 - Developed C++ infrastructure for financial pricing and risk analytics  
 - Served as Scrum Master—led sprint planning, retrospectives, and team coordination
 
+## Teaching Experience
+
+-  **Electronics and microprocessors** (ECE 410L, AUB)
+-  **Control Systems Lab** (ECE 460L, AUB) 
+
+## Publications
+<!-- - *Learning Neural Control Barrier Functions from Offline Data with Conservatism* -->
+- *Learning Ensembles of Vision-based Safety Control Filters*, arXiv:2412.02029  
+- *Reducing Barriers in Analyzing Eye Tracking Data*, IEEE SIEDS, 2024
 ---
 
 Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. I also enjoy video/board games.
 
 <p align="center">
   <img src="{{ '/assets/files/4.jpeg' | relative_url }}" alt="Photo 1" width="45%" style="margin-right: 2%;">
-  <img src="{{ '/assets/files/3.jpeg' | relative_url }}" alt="Photo 2" width="45%">
+  <img src="{{ '/assets/files/2.jpeg' | relative_url }}" alt="Photo 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/files/2.jpeg' | relative_url }}" alt="Photo 3" width="45%" style="margin-right: 2%;">
+  <img src="{{ '/assets/files/3.jpeg' | relative_url }}" alt="Photo 3" width="45%" style="margin-right: 2%;">
   <img src="{{ '/assets/files/1.jpeg' | relative_url }}" alt="Photo 4" width="45%">
 </p>
 
