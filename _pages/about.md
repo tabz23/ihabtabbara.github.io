@@ -22,8 +22,9 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 -  **Control Systems Lab** (ECE 460L, AUB) 
 
 ## Publications
-- *Learning Ensembles of Vision-based Safety Control Filters*, arXiv:2412.02029  
-- *Reducing Barriers in Analyzing Eye Tracking Data*, IEEE SIEDS, 2024
+- **Learning Ensembles of Vision-based Safety Control Filters**, arXiv:2412.02029  
+- **Reducing Barriers in Analyzing Eye Tracking Data**, IEEE SIEDS, 2024
+
 ---
 
 Outside of research, I really enjoy nature and astrophotography. I regularly go on long hikes in national parks and document plants/mushroom/animals I encounter. I also enjoy video/board games.
