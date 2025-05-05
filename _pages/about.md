@@ -22,6 +22,7 @@ Hey! I'm currently a first-year Ph.D. student in Computer Science and Engineerin
 -  **Control Systems Lab** (ECE 460L, AUB) 
 
 ## Publications
+- **Learning Neural Control Barrier Functions from Offline Data with Conservatism**, arXiv:2505.00908
 - **Learning Ensembles of Vision-based Safety Control Filters**, arXiv:2412.02029  
 - **Reducing Barriers in Analyzing Eye Tracking Data**, IEEE SIEDS, 2024
 
